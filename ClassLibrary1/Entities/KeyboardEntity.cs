@@ -17,7 +17,7 @@ namespace ClassLibrary1.Entities
             public string TypeOfConnector { get; set; }
             public int LengthOfCoord { get; set; }
             public decimal Price { get; set; }
-        }
+        } 
 
        
 
